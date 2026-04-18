@@ -1,4 +1,4 @@
-## hey, i'm akiho.
+## hey, i'm mina.
 ### about
 - full stack engineer
 - professional: java (ee, spring), typescript (angular, next.js)
